@@ -16,7 +16,7 @@ ___
 
 <div align="center" ><img src="" width="500"></div>
 
-- [**Link do vídeo completo sobre o projeto**]()
+- [**Link do vídeo completo sobre o projeto**](https://www.youtube.com/watch?v=KlVErKJrRRU)
 
 ___
 
@@ -26,24 +26,10 @@ O projeto **WatchMe** é o 1º desafio extra do bootcamp Ignite da trilha ReactJ
 
 * Página Inicial:
  
-  <img src="" width="800"> 
-
-* Tarefas Adicionadas:
+  <img src="https://i.imgur.com/tV5Zvzf.png" width="800"> 
  
-  <img src="" width="800">
+  <img src="https://i.imgur.com/tULLhiQ.png" width="800">
 
-* Tarefas Marcadas:
-  
-  <img src="" width="800">
-
-* Aviso de não poder incluir uma tarefa sem título:
-  
-  <img src="" width="800">
-
-* Versão Mobile:
- 
-  <img src="" width="300">___________<img src="" width="300">
-  
 ___
 ## :interrobang: Motivo
 
