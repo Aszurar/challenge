@@ -1,9 +1,16 @@
 .movie-card {
   position: relative;
+  transition: all 0.2s;
+  cursor: pointer;
 
+  &:hover {
+    transform: scale(1.1);
+  }
   img {
     width: 14.31rem;
     height: 21.25rem;
+
+
   }
 
   > div {
