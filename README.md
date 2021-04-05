@@ -1,4 +1,4 @@
-# WatchMe| Ignite - ReactJS
+# WatchMe | Ignite - ReactJS
  O projeto **WatchMe** é uma plataforma que lista filmes pelo gênero selecionados.
 <h2 align="center">WatchMe</h2>
 
